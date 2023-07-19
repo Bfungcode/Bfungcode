@@ -1,4 +1,19 @@
-# Hey there, I'm a Self Taught Developer. With dreams and passion to learn new things
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There, I am 
+                <b><a target="_blank" href="https://alsiam.com">Bie Fung</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a <b>front end developer<b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 ```javascript
 const bfung = {
