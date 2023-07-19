@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There, I am 
-                <b><a target="_blank" href="bfung.pro">Bie Fung</a></b>
+                <b><a target="_blank" href="https://bfung.pro">Bie Fung</a></b>
         </samp>
 </h3>
 
