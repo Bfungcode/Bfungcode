@@ -1,3 +1,5 @@
+# Hey there, I'm a Self Taught Developer. With dreams and passion to learn new things
+
 ```javascript
 const bfung = {
     role: ["Front End Developer", "Web Designer"],
