@@ -6,14 +6,14 @@
 </h3>
 
 
-<p align="center"> 
+<h2 align="center"> 
   <samp>
     <br>
-    「 I am a <b>front end developer<b> 」
+    「 I'm a <b>Front End Developer<b> 」
     <br>
     <br>
   </samp>
-</p>
+</h2>
 
 ```javascript
 const bfung = {
